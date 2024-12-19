@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|c:\\users\\ranya\\desktop\\prog evn\\livre\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|c:\\users\\ranya\\desktop\\prog evn\\livre\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|c:\\users\\ranya\\desktop\\prog evn\\livre\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|c:\\users\\ranya\\desktop\\prog evn\\livre\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|c:\\users\\ranya\\desktop\\prog evn\\livre\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4EF7E5DF-C164-4CE0-BE46-D31CF3DA4DF6}|Livre.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form2.vb [Conception]",
+              "RelativeToolTip": "Form2.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T23:51:39.44Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form3.vb [Conception]",
+              "RelativeToolTip": "Form3.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T11:44:35.268Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form1.vb [Conception]",
+              "RelativeToolTip": "Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T11:04:50.627Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T10:39:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\Livre\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T22:29:12.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.vbproj.AssemblyReference.cache
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.form1.resources
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.Resources.resources
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.vbproj.GenerateResource.cache
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.vbproj.CoreCompileInputs.cache
+C:\Users\ranya\source\repos\calculatrice2\bin\Debug\calculatrice2.exe.config
+C:\Users\ranya\source\repos\calculatrice2\bin\Debug\calculatrice2.exe
+C:\Users\ranya\source\repos\calculatrice2\bin\Debug\calculatrice2.pdb
+C:\Users\ranya\source\repos\calculatrice2\bin\Debug\calculatrice2.xml
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.exe
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.xml
+C:\Users\ranya\source\repos\calculatrice2\obj\Debug\calculatrice2.pdb

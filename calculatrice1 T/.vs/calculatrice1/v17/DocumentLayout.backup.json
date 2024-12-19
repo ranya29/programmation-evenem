@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3124F16C-F794-4016-A767-1A4C09157771}|calculatrice1.vbproj|c:\\users\\ranya\\desktop\\prog evn\\calculatrice1 t\\calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3124F16C-F794-4016-A767-1A4C09157771}|calculatrice1.vbproj|solutionrelative:calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124F16C-F794-4016-A767-1A4C09157771}|calculatrice1.vbproj|C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3124F16C-F794-4016-A767-1A4C09157771}|calculatrice1.vbproj|solutionrelative:calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculatrice.vb",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\calculatrice.vb",
+              "RelativeDocumentMoniker": "calculatrice.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\calculatrice.vb",
+              "RelativeToolTip": "calculatrice.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-30T20:19:04.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculatrice.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\calculatrice.vb",
+              "RelativeDocumentMoniker": "calculatrice.vb",
+              "ToolTip": "C:\\Users\\ranya\\Desktop\\prog evn\\calculatrice1 T\\calculatrice.vb [Design]",
+              "RelativeToolTip": "calculatrice.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-30T19:23:14.499Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

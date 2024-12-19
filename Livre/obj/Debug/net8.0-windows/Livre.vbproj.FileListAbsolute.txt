@@ -1,0 +1,34 @@
+C:\Users\ranya\source\repos\Livre\bin\Debug\net8.0-windows\Livre.exe
+C:\Users\ranya\source\repos\Livre\bin\Debug\net8.0-windows\Livre.deps.json
+C:\Users\ranya\source\repos\Livre\bin\Debug\net8.0-windows\Livre.runtimeconfig.json
+C:\Users\ranya\source\repos\Livre\bin\Debug\net8.0-windows\Livre.dll
+C:\Users\ranya\source\repos\Livre\bin\Debug\net8.0-windows\Livre.pdb
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.Form1.resources
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.vbproj.GenerateResource.cache
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.AssemblyInfoInputs.cache
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.AssemblyInfo.vb
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.vbproj.CoreCompileInputs.cache
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.dll
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\refint\Livre.dll
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.pdb
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\Livre.genruntimeconfig.cache
+C:\Users\ranya\source\repos\Livre\obj\Debug\net8.0-windows\ref\Livre.dll
+C:\Users\ranya\Desktop\prog evn\Livre\bin\Debug\net8.0-windows\Livre.exe
+C:\Users\ranya\Desktop\prog evn\Livre\bin\Debug\net8.0-windows\Livre.deps.json
+C:\Users\ranya\Desktop\prog evn\Livre\bin\Debug\net8.0-windows\Livre.runtimeconfig.json
+C:\Users\ranya\Desktop\prog evn\Livre\bin\Debug\net8.0-windows\Livre.dll
+C:\Users\ranya\Desktop\prog evn\Livre\bin\Debug\net8.0-windows\Livre.pdb
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.Form1.resources
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.Form2.resources
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.vbproj.GenerateResource.cache
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.AssemblyInfoInputs.cache
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.AssemblyInfo.vb
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.vbproj.CoreCompileInputs.cache
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.dll
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\refint\Livre.dll
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.pdb
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.genruntimeconfig.cache
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\ref\Livre.dll
+C:\Users\ranya\Desktop\prog evn\Livre\obj\Debug\net8.0-windows\Livre.Form3.resources
